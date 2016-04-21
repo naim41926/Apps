@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chicago City Fare App</string>
+    <string name="btnCalcFare">Calculate Fare</string>
+    <string-array name="txtGroup">
+        Minivan
+        Sedan
+        Smart Car
+    </string-array>
+    <string name="txtTitle">Chicago City Fare</string>
+    <string name="txtHint">Enter a Distance</string>
+    <string name="txtCabName">Cool Cabs</string>
+    <string name="txtResult"></string>
+    <string name="txtPrompt">Pick your type of Car</string>
+    <string name="txtCabDescription">Cool Cabs</string>
+    <string name="txtDistance">Enter a Distance</string>
+</resources>
